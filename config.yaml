@@ -1,0 +1,14 @@
+database:
+  host: "192.168.0.172"
+  port: 5432
+  database: "tushare"
+  user: "postgres"
+  password: "postgres"
+
+tushare:
+  token: "UjPQPlQrfcIoRYDTlseJNFIrGrytGVeUiZntPPHQYCRYPVCxHvAAXpigWcCKcHpm"
+  http_url: "http://8.136.22.187:8010/"
+
+app:
+  host: "0.0.0.0"
+  port: 8080
